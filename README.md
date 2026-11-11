@@ -1,31 +1,102 @@
-# 💫 About Me:
-Web Full-Stack Developer in Progress<br><br>I build projects and turn ideas into real products.<br><br>Founder & CEO of Starflix and Komori<br>Passionate about reverse engineering and understanding how things work<br>Always experimenting with new ideas and side projects<br>Building products with the ambition of turning them into successful businesses
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,24&text=Kumi&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20%E2%80%A2%20Reverse%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="banner" />
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/kumidev.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tj35vq2C) 
+<a href="https://github.com/Kumi2384">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Starflix+%26+Komori+%F0%9F%9A%80;Turning+ideas+into+real+products;Reverse+engineering+everything+%F0%9F%94%8D;Always+shipping+side+projects+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kumi2384&theme=holi&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kumi2384&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kumi2384&theme=holi&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kumi2384&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+![Profile views](https://komarev.com/ghpvc/?username=Kumi2384&label=Profile%20views&color=7c3aed&style=for-the-badge)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kumidev.bsky.social)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tj35vq2C)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kumidev)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kumi2384&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kumi2384&icon=5&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/kumidev) 
+## 💫 À propos
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td>
+
+🚀 **Founder & CEO** de **Starflix** et **Komori**
+💻 Web Full-Stack Developer *in progress*
+🔍 Passionné par le **reverse engineering** : comprendre comment les choses fonctionnent
+🧪 Toujours en train d'expérimenter de nouvelles idées et side projects
+🎯 Objectif : transformer chaque projet en vrai business
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,threejs&theme=dark" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,bash,graphql" />
+
+**Bases de données**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,supabase,firebase,redis&theme=dark" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=cloudflare,gcp,netlify,vercel,docker,nginx,apache,githubactions,github&theme=dark" />
+
+**Autres**<br/>
+<img src="https://skillicons.dev/icons?i=wordpress,godot,opengl,npm,ffmpeg&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Kumi2384&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=12" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kumi2384&theme=radical&hide_border=true&layout=compact&border_radius=12" />
+
+<img src="https://streak-stats.demolab.com/?user=Kumi2384&theme=radical&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 🏆 Trophées
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kumi2384&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 💡 Citation du jour
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Soutenir mon travail
+
+<a href="https://ko-fi.com/kumidev">
+  <img src="https://img.shields.io/badge/Offre--moi%20un%20caf%C3%A9-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,18,24&section=footer" width="100%" />
+
+</div>
